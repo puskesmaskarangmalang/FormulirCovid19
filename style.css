@@ -1,0 +1,20 @@
+@media screen and (max-width: 994px) {
+  .card {
+    width: 320px;
+  }
+}
+
+section {
+  padding-top: 2rem;
+}
+body {
+  background-color: #fa8072;
+  font-size: 16px;
+}
+.form-control {
+  border-radius: 15px;
+}
+.btn {
+  width: 300px;
+  border-radius: 15px;
+}
